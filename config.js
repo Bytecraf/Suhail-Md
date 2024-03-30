@@ -6,7 +6,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 global.audio= "" ;  
 global.video= "" ;
 global.port =process.env.PORT
-global.appUrl=process.env.APP_URL || "https://telegra.ph/file/74fe969b16562689a33b1.jpg"                       // put your app url here,
+global.appUrl=process.env.APP_URL || "https://telegra.ph/file/209fe1083b4765a01749d.jpg"                       // put your app url here,
 global.email ="alaminbinali50@gmail.com"
 global.location="Nigeria, Katsina state."
 global.mongodb= process.env.MONGODB_URI || "mongodb+srv://steezy_maxwell:Steezy._.and._.Maxwell@maxwellandsteezy.wbmgyr4.mongodb.net/?retryWrites=true&w=majority"
