@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/e134e2b6fbc80e421cbe7.jpg">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/630d89c1cdd8f1dd5e03b.jpg">
   </a>
 </p>
     
