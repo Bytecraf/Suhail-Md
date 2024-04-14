@@ -1,5 +1,5 @@
  <h1 align="center"> ╠𝐁𝐈𝐍𝐀𝐋𝐈-𝐁𝐎𝐓╣ </h1> 
-<p align="center"> Introducing Mcross_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing ╠𝐁𝐈𝐍𝐀𝐋𝐈-𝐁𝐎𝐓╣! Say goodbye to yawns and hello to yahoos on WhatsApp. We're here to jazz up your chats and sprinkle some excitement into your digital life!. </p>
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
@@ -100,17 +100,17 @@
 
 
 ### Thanks To
-- [KÎÑG M-ÇRØSS](https://github.com/M-cross1) 
+- [Alamin](https://github.com/bytecraf) 
 
 
-The MCROSS_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+The BinAli bot is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
 
 
 <h2 align="center">  NOTICE
 </h2>
    
 ## 
-- *Mcross-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *binali bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Mcross-Md at your own risk by keeping this warning in mind so make una no go blame me (KÎÑG M-ÇRØSS).*
+- *Use binali bot at your own risk by keeping this warning in mind so make una no go blame me (Alamin bin Ali).*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
