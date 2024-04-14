@@ -96,7 +96,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+2349042566473`](https://wa.me/2349042566473)
+- If any problem, then [`send message`](https://wa.me/2348163717090)
 
 
 ### Thanks To
