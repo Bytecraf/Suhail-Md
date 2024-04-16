@@ -1,8 +1,8 @@
 {
-  "name": "𝙈𝘾𝙍𝙊𝙎𝙎-𝙈𝘿",
-  "description": "I am Mcross-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/2349042566473",
+  "name": "╠𝐁𝐈𝐍𝐀𝐋𝐈-𝐁𝐎𝐓╣",
+  "description": "I am ★彡 ʙɪɴᴀʟɪ ʙᴏᴛ-ᴍᴅ 彡★ Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/2349042566473",
   "logo": "https://telegra.ph/file/e134e2b6fbc80e421cbe7.jpg",
-  "keywords": ["whatsappbot", "mcrossMd", "mcross Md bot", "mcross-Md", "mcrossMdWhatsaooBot", "McrossWaBot","McrossMD","Mcross Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "binali md", "binali Md bot", "binali-Md", "binali MdWhatsaooBot", "binaliWaBot","binaliMD","binaliMd Whatsapp Bot","multi device"],
   "success_url": "/mcross/",
   "app_url": "/mcross/",
   
@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/52d259354a5da6b250132.jpg,https://telegra.ph/file/859e6c982e5ad10193cf3.jpg,https://telegra.ph/file/fb8689906492c50d8a908.jpg"
+      "value": "https://telegra.ph/file/0330e5389eba459690af6.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -66,7 +66,7 @@
     },   
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here",
-      "value": "kingmcrosswhatsappbot",
+      "value": "┈━═☆ 𝕭𝖎𝖓𝖆𝖑𝖎 𝖙𝖊𝖈𝖍 𝖎𝖓𝖋𝖔 ☆═━┈whatsappbot",
     "required" :true
     }, 
     "WAPRESENCE": {
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝐌𝐂𝐑𝐎𝐒𝐒-𝐌𝐃",
+      "value": "╠𝐁𝐈𝐍𝐀𝐋𝐈-𝐁𝐎𝐓╣",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "ＫＩＮＧ ＭＣＲＯＳＳ",
+      "value": "┗━━━━•❅•°•❈ Aʟᴀᴍɪɴ Bɪɴ Aʟɪ  •❅•°•❈━━━━┛",
       "required": false 
     }
   }, 
