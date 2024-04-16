@@ -16,15 +16,15 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : ┈━═☆ ʙɪɴᴀʟɪ ʙᴏᴛ-ᴍᴅ ☆═━┈
+   * @author : ❖ ── ✦ ──『✙ Bɪɴᴀʟɪ ᴛᴇᴄʜ ɪɴғᴏ ✙』── ✦ ── ❖
+   * @whatsapp : https://chat.whatsapp.com/Kdg9wH4iNbDFp5OnWnKeoJ
+   * @description : Binali md-md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8-pdm
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By ┈━═☆ 𝕭𝖎𝖓𝖆𝖑𝖎 𝖙𝖊𝖈𝖍 𝖎𝖓𝖋𝖔 ☆═━┈
+   * © 2024 Bin Ali md-bot
  ⛥┌┤
  */
  
@@ -53,7 +53,7 @@
 /*
 let "USER_IMAGES" = {
       "description": "Put IMAGES/VIDEOS URL, Make Sure Url have extention like .mp4,.jpg,.png etc",
-      "value": "https://telegra.ph/file/d90855d13352c8aae3981.mp4",
+      "value": "https://telegra.ph/file/0027b4ffef1a77675d241.mp4",
       "required" :false
     },
 */
