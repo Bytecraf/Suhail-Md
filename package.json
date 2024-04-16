@@ -1,14 +1,14 @@
 {
-   "name": "KÌÑG M-ÇRØSS",
+   "name": "┈━═☆ ʙɪɴᴀʟɪ ʙᴏᴛ-ᴍᴅ ☆═━┈",
    "version": "1.2.8-pdm",
-   "description": "Multi device whatsapp bot by KÎÑG M-ÇRØSS.",
+   "description": "Multi device whatsapp bot by ALAMIN BIN ALI.",
    "main": "lib/client.js",
    "type": "commonjs",
    "scripts": {
              "start": "pm2 start lib/client.js --deep-monitoring --attach --name Suhail",
-             "stop": "pm2 stop Mcross"             
+             "stop": "pm2 stop binali"             
    },
-   "author": "KÌÑG M-ÇRØSS",
+   "author": "┗━━━━•❅•°•❈ Aʟᴀᴍɪɴ Bɪɴ Aʟɪ  •❅•°•❈━━━━┛",
   
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -68,7 +68,7 @@
    },
    "repository": {
              "type": "git",
-             "url": "git+https://github.com/M-cross1/Suhail-Md/tree/main"
+             "url": "git+https://github.com/bytecraf/Suhail-Md/tree/main"
    },
    "bugs": {
              "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues"
