@@ -2,7 +2,7 @@
  * ```js
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
+//                                ╠𝐁𝐈𝐍𝐀𝐋𝐈-𝐁𝐎𝐓╣ ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
 //                                                                                                      // 
 //                                         Ｖ：1．2．8                                                   // 
 //                                                                                                      // 
@@ -17,20 +17,20 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *```
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : ╠𝐁𝐈𝐍𝐀𝐋𝐈-𝐁𝐎𝐓╣
+   * @author : ┈━═☆ 𝕭𝖎𝖓𝖆𝖑𝖎 𝖙𝖊𝖈𝖍 𝖎𝖓𝖋𝖔 ☆═━┈
+   * Whatsapp : https://chat.whatsapp.com/Kdg9wH4iNbDFp5OnWnKeoJ
+   * @description : binali-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By ┈━═☆ 𝕭𝖎𝖓𝖆𝖑𝖎 𝖙𝖊𝖈𝖍 𝖎𝖓𝖋𝖔 ☆═━┈.
+   * © 2024 binali-Md.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Suhail_Md = "binali MD Whatsapp bot md"
 let {smd , prefix,Config} = require("../lib")
 
 // ============================ CHATS SETTINGS ============================ 
